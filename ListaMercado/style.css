@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    border: solid 1px black;
+}
+
+#sectionListaCompras{
+    text-align: center;
+}
+
+#sectionItens{
+    padding: 10px;
+}
+
+#sectionItemAdicionar{
+    padding: 10px;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul li{
+    border: 1px solid black;
+    padding: 2px;
+}
+
+ul li:hover{
+    background-color: #007bff;
+    color: #F2F2F2;
+}
